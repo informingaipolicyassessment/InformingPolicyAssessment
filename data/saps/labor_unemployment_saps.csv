@@ -1,0 +1,17 @@
+﻿K,Stakeholder,Action,Mean_Priority,Mean_Agreement,Std_Agreement,Consensus,Cat Label,Med_Agreement,Std_Priority,Med_Priority
+1,News publishers,employ people to fact check AI.,2.33,6.11,1.08,Higher,Higher/Higher,6.5,0.69,2
+2,Unions,force employers to have fair practice for lay-offs when AI replacements are involved.,2.29,5.59,1.77,Lower,Med/Lower,6,0.85,3
+3,Government,provide financial support and benefits to individuals who lost jobs to AI replacements.,2.29,5.29,2.14,Lower,Med/Lower,7,0.77,2
+4,News publishers,not replace journalists with AI.,2.26,5.42,1.89,Lower,Med/Lower,6,0.81,2
+5,Employers,not replace human jobs with AI.,2.25,5.08,2.23,Lower,Med/Lower,6,0.87,2.5
+6,News publishers,strengthen the human element in journalism.,2.22,5.56,1.46,Higher,Med/Higher,6,0.73,2
+7,Government,require companies to keep a higher percentage of human employees.,2.13,5.2,2.18,Lower,Med/Lower,6,0.83,2
+8,News publishers,raise awareness about the potential harms of AI.,2.06,5.59,1.33,Higher,Med/Higher,6,0.9,2
+9,Schools,provide re-training and re-skilling programs for displaced workers.,2.06,5.59,1.66,Lower,Med/Lower,6,0.83,2
+10,News publishers,limit the use of AI in news stories.,2.06,5.53,1.59,Lower,Med/Lower,6,0.83,2
+11,Government,make it illegal to replace human jobs with AI.,2,4.18,2.46,Lower,Med/Lower,4,0.94,2
+12,Government,provide universal basic income for those replaced by AI.,1.94,4.33,2.25,Lower,Med/Lower,4.5,0.8,2
+13,Government,impose an AI tax for the use of AI in companies to encourage the employment of human jobs.,1.93,5.13,1.85,Lower,Med/Lower,5,0.96,2
+14,Government,pass laws requiring a company to have a minimum number of people employed in order to use AI.,1.88,4.44,2.31,Lower,Med/Lower,5,0.96,1.5
+15,Tech companies,provide classes for people to learn about how to use AI effectively.,1.71,5.06,1.85,Lower,Med/Lower,5,0.77,2
+16,Local communities,hold discussions on effects of AI on unemployment in the community.,1.69,4.69,1.74,Lower,Med/Lower,5,0.79,1.5

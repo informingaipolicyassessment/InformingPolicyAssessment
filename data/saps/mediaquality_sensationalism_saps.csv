@@ -1,0 +1,27 @@
+﻿K,Stakeholder,Action,Mean_Priority,Mean_Agreement,Std_Agreement,Consensus,Cat Lable,Med_Agreement,Std_Priority,Med_Priority
+1,News publishers,label all content generated with the assistance of AI.,2.8,6.67,0.82,Higher,Higher/Higher,7,0.41,3
+2,Schools,educate students on how to identify fake news.,2.76,6.59,0.87,Higher,Higher/Higher,7,0.66,3
+3,Social media companies,fact check AI generated content.,2.75,6.38,0.96,Higher,Higher/Higher,7,0.58,3
+4,Tech companies,provide more transparency about how outputs are created.,2.67,6.44,0.73,Higher,Higher/Higher,7,0.5,3
+5,News publishers,fact check all content and reject any sensationalized stories.,2.67,6.07,2.12,Lower,Higher/Lower,7,0.62,3
+6,Government,require any use of AI in journalism to be labeled as AI generated.,2.62,6.12,1.71,Lower,Higher/Lower,7,0.62,3
+7,Government,fact check politicized news stories.,2.57,5.79,1.63,Lower,Med/Lower,6.5,0.65,3
+8,Government,raise awareness nationally of the potential harms of AI generated news stories.,2.5,5.92,2.31,Lower,Med/Lower,7,0.8,3
+9,News publishers,alert the public if there have been any sensationalized news stories impacted by the use of AI.,2.47,6.33,0.98,Higher,Higher/Higher,7,0.64,3
+10,Tech companies,reduce biases in the training data of AI models.,2.44,5.69,1.82,Lower,Med/Lower,7,0.73,3
+11,Government,make it illegal to use of AI to misrepresent the facts.,2.41,5.35,2.32,Lower,Med/Lower,7,0.8,3
+12,News publishers,ban the use of AI in generating stories.,2.4,5.6,2.06,Lower,Med/Lower,7,0.63,2
+13,Tech companies,require human verification before use of AI models.,2.38,5.92,1.75,Lower,Med/Lower,7,0.65,2
+14,Social media companies,audit AI models.,2.37,5.84,1.98,Lower,Med/Lower,7,0.68,2
+15,Researchers,develop educational programs to teach digital literacy for the public about how to critically assess AI.,2.31,6.31,0.95,Higher,Higher/Higher,7,0.6,2
+16,Schools,teach digital literacy and critical engagement to help students identify AI generated content.,2.29,6.21,0.97,Higher,Higher/Higher,6.5,0.73,2
+17,Tech companies,help strengthen digital literacy of the public to help understand harms of AI.,2.27,5.82,1.89,Lower,Med/Lower,7,0.79,2
+18,Government,impose fines on any news publisher that publishes fake news.,2.27,5.73,1.98,Lower,Med/Lower,7,0.88,3
+19,Local governments,provide programs to educate communities on digital literacy.,2.19,5.5,1.67,Lower,Med/Lower,6,0.83,2
+20,Local government,monitor media affecting local communities and provide counter-evidence to false claims.,2.19,5.44,1.67,Lower,Med/Lower,6,0.66,2
+21,Government,limit use of AI in news media.,2.18,5.35,2,Lower,Med/Lower,6,0.81,2
+22,Government,ban the use of AI in journalism.,2.12,4.35,2.23,Lower,Med/Lower,4,0.86,2
+23,Independent third parties,raise awareness about the potential harms of AI.,2.11,5.78,1.22,Higher,Med/Higher,6,0.76,2
+24,Government,make it illegal for tech companies to release AI models that can be used to create any defamatory content about people.,2.1,4.95,2.04,Lower,Med/Lower,5,0.97,2.5
+25,Government,ban use of AI generated news stories.,2,4.22,2.59,Lower,Med/Lower,4,1,2
+26,Local communities,set up programs to support victims of sensationalized news.,1.71,4.5,2.18,Lower,Med/Lower,5,0.73,2

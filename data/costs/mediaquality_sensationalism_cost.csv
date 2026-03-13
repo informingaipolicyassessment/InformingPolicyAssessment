@@ -1,0 +1,27 @@
+﻿K,Stakeholder,Action,Cost
+1,News publishers,label all content generated with the assistance of AI.,1.0
+2,Schools,educate students on how to identify fake news.,1.8
+3,Social media companies,fact check AI generated content.,2.8
+4,Tech companies,provide more transparency about how outputs are created.,1.5
+5,News publishers,fact check all content and reject any sensationalized stories.,2.3
+6,Government,require any use of AI in journalism to be labeled as AI generated.,4.0
+7,Government,fact check politicized news stories.,4.0
+8,Government,raise awareness nationally of the potential harms of AI generated news stories.,4.0
+9,News publishers,alert the public if there have been any sensationalized news stories impacted by the use of AI.,1.3
+10,Tech companies,reduce biases in the training data of AI models.,2.3
+11,Government,make it illegal to use of AI to misrepresent the facts.,4.0
+12,News publishers,ban the use of AI in generating stories.,4.0
+13,Tech companies,require human verification before use of AI models.,1.8
+14,Social media companies,audit AI models.,2.0
+15,Researchers,develop educational programs to teach digital literacy for the public about how to critically assess AI.,1.8
+16,Schools,teach digital literacy and critical engagement to help students identify AI generated content.,2.0
+17,Tech companies,help strengthen digital literacy of the public to help understand harms of AI.,1.8
+18,Government,impose fines on any news publisher that publishes fake news.,4.0
+19,Local governments,provide programs to educate communities on digital literacy.,1.8
+20,Local government,monitor media affecting local communities and provide counter-evidence to false claims.,2.5
+21,Government,limit use of AI in news media.,4.0
+22,Government,ban the use of AI in journalism.,4.0
+23,Independent third parties,raise awareness about the potential harms of AI.,1.0
+24,Government,make it illegal for tech companies to release AI models that can be used to create any defamatory content about people.,4.0
+25,Government,ban use of AI generated news stories.,4.0
+26,Local communities,set up programs to support victims of sensationalized news.,2.3

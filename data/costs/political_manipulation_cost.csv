@@ -1,0 +1,32 @@
+﻿K,Stakeholder,Action,Cost
+1,Tech companies,be transparent about data collection and usage.,2
+2,News publishers,be transparent about any use of AI in stories.,1
+3,Tech companies,build safeguards into models to prevent misuse.,3
+4,News publishers,provide tools to identify when an article is AI generated.,3
+5,Schools,strengthen digital literacy and critical engagement of students.,3
+6,News publishers,fact check all stories.,3
+7,Social media companies,have labels identifying when a post is AI generated.,4
+8,Government,mandate fact checking in tech companies and news publishers.,1
+9,Tech companies,include cited sources in outputs of models.,1
+10,Tech companies,limit how much of their AI models can be used in journalism or politics.,1
+11,Schools,educate students about potential harms of AI.,1
+12,Government,raise awareness about harms of AI.,1
+13,News publishers,make the public aware about potential manipulation attacks using AI.,1
+14,News publishers,strengthen the human element in their journalism.,2
+15,News publishers,strengthen public literacy by highlighting identified fake news stories.,1
+16,Tech companies,require human verification prior to usage of AI models.,2
+17,Government,regulate news companies' use of AI.,4
+18,Government,take legal action against news organizations spreading fake news.,4
+19,Schools,strengthen human values and interactions over AI.,1.5
+20,Social media companies,allow users to have more access to what they can and cannot see on their newsfeed.,1.8
+21,Government,pass laws making it a crime to manipulate someone with the use of AI.,4
+22,Tech companies,require fact checking before generating false stories.,4
+23,Tech companies,limit the capabilities of AI.,2.3
+24,Tech companies,remove toxicity from training data prior to training models.,2.3
+25,Independent third parties,verify that accounts online are created by humans and not AI.,2.5
+26,Independent researchers,audit tech companies' AI models.,2.3
+27,Tech companies,ban usage of AI by news publishers to generate stories or cover current events.,4
+28,Social media companies,fact check all posts.,4
+29,Tech companies,limit access to the use of AI models.,4
+30,Government,ban the use of AI.,4
+31,Local communities,organize and promote annual get togethers to promote responsible use of AI sources.,1.3
